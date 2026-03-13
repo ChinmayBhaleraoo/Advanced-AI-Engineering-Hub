@@ -1,0 +1,6 @@
+networkx
+numpy
+opencv-python
+scipy
+ultralytics
+torch
